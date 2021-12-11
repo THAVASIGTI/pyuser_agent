@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name="pyuser_agent",
-    version="0.0.0",
+    version="0.1.0",
     author="T.THAVASI",
     license="MIT",
     author_email="ganeshanthavasigti1032000@gmail.com",
